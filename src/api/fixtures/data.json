@@ -1,0 +1,38 @@
+[
+    {
+      "model": "api.country",
+      "pk": 1,
+      "fields": {
+        "name": "Afghanistan",
+        "alpha_2_name": "AF",
+        "alpha_3_name": "AFG"
+      }
+    },
+    {
+      "model": "api.country",
+      "pk": 2,
+      "fields": {
+        "name": "Albania",
+        "alpha_2_name": "AL",
+        "alpha_3_name": "ALB"
+      }
+    },
+    {
+      "model": "api.country",
+      "pk": 3,
+      "fields": {
+        "name": "Algeria",
+        "alpha_2_name": "DZ",
+        "alpha_3_name": "DZA"
+      }
+    },
+    {
+      "model": "api.country",
+      "pk": 3,
+      "fields": {
+        "name": "American Samoa",
+        "alpha_2_name": "AS",
+        "alpha_3_name": "ASM"
+      }
+    }
+  ]
