@@ -9,4 +9,5 @@ class CountryViewSet(viewsets.ModelViewSet):
 
     queryset = Country.objects.all()
     serializer_class = CountrySerializer
+    filterset_fields = ['alpha_2_code', 'alpha_3_code']
 
