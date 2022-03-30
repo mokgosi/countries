@@ -4,8 +4,8 @@
       "pk": 1,
       "fields": {
         "name": "Afghanistan",
-        "alpha_2_name": "AF",
-        "alpha_3_name": "AFG"
+        "alpha_2_code": "AF",
+        "alpha_3_code": "AFG"
       }
     },
     {
@@ -13,8 +13,8 @@
       "pk": 2,
       "fields": {
         "name": "Albania",
-        "alpha_2_name": "AL",
-        "alpha_3_name": "ALB"
+        "alpha_2_code": "AL",
+        "alpha_3_code": "ALB"
       }
     },
     {
@@ -22,8 +22,8 @@
       "pk": 3,
       "fields": {
         "name": "Algeria",
-        "alpha_2_name": "DZ",
-        "alpha_3_name": "DZA"
+        "alpha_2_code": "DZ",
+        "alpha_3_code": "DZA"
       }
     },
     {
@@ -31,8 +31,8 @@
       "pk": 3,
       "fields": {
         "name": "American Samoa",
-        "alpha_2_name": "AS",
-        "alpha_3_name": "ASM"
+        "alpha_2_code": "AS",
+        "alpha_3_code": "ASM"
       }
     }
   ]

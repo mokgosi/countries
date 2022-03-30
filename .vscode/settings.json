@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "countries",
+            "database": "${workspaceFolder:countries}/src/db.sqlite3"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
